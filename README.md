@@ -19,5 +19,4 @@ Dataset contendo informações de músicas do Spotify, com variáveis como nome 
 energia (energy), tempo (tempo) e duração. Esses dados permitem analisar padrões de comportamento dos usuários, identificar preferências musicais e compreender tendências de consumo no mercado digital.
 
 ## 🔗 Repositório
-## 🔗 Repositório
 [Acessar projeto no GitHub](https://github.com/CaioPedretti/Projeto-Aplicado-I-Grupo-1)
