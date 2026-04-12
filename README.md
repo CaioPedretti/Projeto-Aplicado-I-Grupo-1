@@ -4,7 +4,6 @@
 - Caio Balista Ferreira Pedretti  RA:10751989
 - Kaua Lima da Silva              RA:10748047
 - Leonardo de Barros Magalhaes    RA:10752304
-- Thiago Souza Sanches            RA:10751081
 
 ## 📌 Objetivo
 Este projeto tem como objetivo analisar dados da plataforma Spotify, com foco na identificação de padrões de comportamento dos usuários, 
